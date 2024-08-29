@@ -1,3 +1,7 @@
-Hi
+This is Main branch changes Developers dont touch it.
 
-DEV1 changes
+Please take a copy and create a new branch on top of it later raise a merge request or pull request
+to merge your changes t Main branch.
+
+
+
